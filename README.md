@@ -1,5 +1,5 @@
 # Basic-Banking-System
-My internship task from The spark foundation(TSF) - GRIP for WebDevelopment project. A Web Application used to transfer money between multiple users. Project contains 10 dummy users.
+My internship task from The sparks foundation(TSF) - GRIP for WebDevelopment project. A Web Application used to transfer money between multiple users. Project contains 10 dummy users.
     
 # Technology Bucket used -
 Front-end : HTML, CSS, Bootstrap and Javascript
