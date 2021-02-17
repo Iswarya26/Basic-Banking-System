@@ -8,3 +8,8 @@ Database : MySQL
     
 Flow of the Website : Home page -> Make a Transaction -> Tranfer Money -> Select reciever -> view Transaction History.
 
+Hosting platform -> 000Webhost.
+
+Website link : https://sparks-foundation.000webhostapp.com/
+
+
